@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Divya Jawalkar — solo builder</title><desc id="desc">Useful ideas. A little delight. A colorful composition of a browser window, a photo card and a love letter.</desc>
+<rect width="1200" height="360" rx="28" fill="#FFF5E9"/>
+<circle cx="1154" cy="31" r="136" fill="#F8D6CE"/><circle cx="850" cy="340" r="158" fill="#ECE2FA"/>
+<g fill="#C9B9D7" opacity=".38"><circle cx="730" cy="58" r="3"/><circle cx="754" cy="58" r="3"/><circle cx="778" cy="58" r="3"/><circle cx="730" cy="82" r="3"/><circle cx="754" cy="82" r="3"/><circle cx="778" cy="82" r="3"/></g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#302440">
+<rect x="44" y="34" width="177" height="32" rx="16" fill="#E5D6F5"/><text x="63" y="55" font-size="13" font-weight="700" letter-spacing="1.8">SOLO BUILDER</text>
+<text x="237" y="55" font-size="13" letter-spacing="2">MUMBAI, INDIA</text>
+<text x="43" y="153" font-size="70" font-weight="700" letter-spacing="-3">Divya Jawalkar.</text>
+<text x="47" y="209" font-size="30" letter-spacing="-.7">Useful ideas. A little delight.</text>
+<path d="M48 227 Q180 240 337 227" fill="none" stroke="#F07968" stroke-width="6" stroke-linecap="round"/>
+<text x="47" y="288" font-size="17">Building products with purpose &amp; personality.</text>
+<text x="47" y="316" font-size="14" fill="#73617C">ANDROID PRODUCTS  /  CREATIVE WEB EXPERIENCES</text>
+</g>
+<g transform="translate(805 66) rotate(-6 135 93)"><rect x="5" y="9" width="257" height="182" rx="18" fill="#362546" opacity=".12"/><rect width="257" height="182" rx="18" fill="#BCA0E8" stroke="#3C2B50" stroke-width="2.5"/><path d="M0 36H257" stroke="#3C2B50" stroke-width="2.5"/><circle cx="20" cy="18" r="4" fill="#FFF5E9"/><circle cx="35" cy="18" r="4" fill="#FFF5E9"/><circle cx="50" cy="18" r="4" fill="#FFF5E9"/><rect x="20" y="56" width="100" height="102" rx="12" fill="#FFF5E9"/><path d="M34 140L61 101 80 123 106 91V145H34" fill="#EF907C"/><circle cx="46" cy="78" r="10" fill="#F4C451"/><rect x="137" y="63" width="96" height="12" rx="6" fill="#3C2B50"/><rect x="137" y="87" width="76" height="8" rx="4" fill="#FFF5E9"/><rect x="137" y="106" width="90" height="8" rx="4" fill="#FFF5E9"/><rect x="137" y="134" width="68" height="25" rx="12" fill="#DCED9C"/></g>
+<g transform="translate(949 190) rotate(10 94 61)"><rect x="5" y="7" width="184" height="121" rx="12" fill="#362546" opacity=".12"/><rect width="184" height="121" rx="12" fill="#F19381" stroke="#3C2B50" stroke-width="2.5"/><path d="M3 8L92 70 181 8" fill="none" stroke="#3C2B50" stroke-width="2.5"/><path d="M3 115L63 62M181 115L121 62" stroke="#3C2B50" stroke-width="2.5"/><path d="M91 64C71 50 76 36 87 40C91 42 93 45 93 45C103 31 120 42 110 54Z" fill="#FFF5E9" stroke="#3C2B50" stroke-width="2"/></g>
+<g stroke="#3C2B50" stroke-width="2.5"><path d="M1129 99V132M1113 115H1145M1118 104L1140 126M1140 104L1118 126"/><path d="M761 243V266M750 254H772"/></g>
+<circle cx="1086" cy="60" r="18" fill="#DCED9C" stroke="#3C2B50" stroke-width="2.5"/><path d="M1080 60L1085 65 1093 55" fill="none" stroke="#3C2B50" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
