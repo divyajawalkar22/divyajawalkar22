@@ -1,9 +1,10 @@
-<img src="./assets/banner.svg" alt="Divya Jawalkar — solo builder. Useful ideas. A little delight." width="100%" />
+<img src="./assets/banner.svg" alt="Divya Jawalkar — solo builder developing practical products." width="100%" />
 
-<p><strong>I’m Divya, a solo builder making useful products and playful web experiences.</strong><br/>
-I like taking an idea from “what if?” to something people can actually try.</p>
+<p><strong>I’m Divya, a solo builder developing practical products and interactive web experiences.</strong><br/>
+Currently building Myroll and I Love Love. I’m learning Python and backend development, with a growing interest in applied AI.</p>
 
-<p><a href="https://www.linkedin.com/in/divyajawalkar22/"><strong>Let’s work together ↗</strong></a> &nbsp; · &nbsp; Open to internships, freelance projects and collaborations.</p>
+<p><a href="https://www.linkedin.com/in/divyajawalkar22/"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp; <a href="https://x.com/divyatwvt"><strong>X ↗</strong></a><br/>
+Open to internships, freelance projects and collaborations.</p>
 
 ## What I’m building
 
@@ -26,31 +27,17 @@ I like taking an idea from “what if?” to something people can actually try.<
 </tr>
 </table>
 
-<p><sub>These are product showcases. Their implementation stays private.</sub></p>
+<p><sub>These are public product showcases. Source code and original development history stay private.</sub></p>
 
-## My approach
+## Current learning focus
 
-**Make it useful. Make it feel good. Keep improving it.**
+Python, APIs and backend fundamentals — building the foundation to develop and evaluate useful AI applications.
 
-I care about the small interactions, the visual details and the path from an idea to a working product. This space follows what I’m building now.
+## Build history
 
-**Tools I use:** TypeScript · React · Next.js · JavaScript · HTML & CSS · Python
-
-<details>
-<summary><strong>Earlier experiments & learning</strong></summary>
-
-Before these products, I explored websites, small utilities and interface ideas. A few pieces from that journey:
-
-- [Discover Hampi](https://github.com/divyajawalkar22/humpy) — an early tourism website and visual-design experiment.
-- [Ecommerce](https://github.com/divyajawalkar22/ecommerce) — product browsing, search and a browser-saved cart.
-- [Currency Converter](https://github.com/divyajawalkar22/curencyconverter) — a Python desktop utility built with Tkinter.
-- [Diwali greetings](https://github.com/divyajawalkar22/diwali_page_index) — a small creative page with animated wishes.
-
-These are earlier learning projects, separate from the products I’m developing today.
-
-</details>
+My earlier work includes web experiments, assessment tools and workflow prototypes. [Read the selected build history ↗](./BUILD-HISTORY.md)
 
 ---
 
-<p><strong>Have an internship, a product idea or a project that needs a builder?</strong><br/>
-<a href="https://www.linkedin.com/in/divyajawalkar22/">Say hello on LinkedIn ↗</a></p>
+<p><strong>For internships, project work or collaboration:</strong><br/>
+<a href="https://www.linkedin.com/in/divyajawalkar22/">Connect on LinkedIn</a> &nbsp; · &nbsp; <a href="https://x.com/divyatwvt">Follow my progress on X</a></p>
