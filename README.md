@@ -1,7 +1,7 @@
 <img src="./assets/banner.svg" alt="Divya Jawalkar — solo builder developing practical products." width="100%" />
 
 <p><strong>I’m Divya, a solo builder developing practical products and interactive web experiences.</strong><br/>
-Currently building Myroll and I Love Love. I’m learning Python and backend development, with a growing interest in applied AI.</p>
+I’m learning Python and backend development, with a growing interest in applied AI.</p>
 
 <p><a href="https://www.linkedin.com/in/divyajawalkar22/"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp; <a href="https://x.com/divyatwvt"><strong>X ↗</strong></a><br/>
 Open to internships, freelance projects and collaborations.</p>
